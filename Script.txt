@@ -1,0 +1,23 @@
+Transforming Banking Customer Care with WatsonX Assistant and Watson Discovery
+
+Good day, ladies and gentlemen! Welcome to this exciting demonstration where we'll explore how WatsonX Assistant, powered by WatsonX.ai, and Watson Discovery, are revolutionizing the banking customer care experience. In today's fast-paced world, customers expect quick and accurate solutions to their banking queries, and we are here to show you how this technology is changing the game.
+
+Let's go for a live demo. In this scenario, we have a customer with a banking inquiry. Let's see how WatsonX Assistant, with the help of Watson Discovery, handles it. Please meet our virtual agent, Minion Assistant
+
+[DEMO: Live Interaction with WatsonX Assistant]
+
+Customer (C): Hello, I want to know my current account balance.
+
+(WatsonX Assistant): Set of questions is asked by WatsonX to get the perfect data.
+
+[In the background, Watson Discovery searches through the bank's database.]
+
+Alex: Your current account balance is $100. Is there anything else I can assist you with today?
+
+C: No, that's all, thank you.
+
+Alex: You're welcome. Have a great day!
+
+[DEMO: End]
+
+H: Impressive, isn't it? The customer received a quick and accurate response to their inquiry, thanks to the seamless integration of WatsonX Assistant and Watson Discovery.
