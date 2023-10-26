@@ -1,23 +1,22 @@
-Transforming Banking Customer Care with WatsonX Assistant and Watson Discovery
-
-Good day, ladies and gentlemen! Welcome to this exciting demonstration where we'll explore how WatsonX Assistant, powered by WatsonX.ai, and Watson Discovery, are revolutionizing the banking customer care experience. In today's fast-paced world, customers expect quick and accurate solutions to their banking queries, and we are here to show you how this technology is changing the game.
-
-Let's go for a live demo. In this scenario, we have a customer with a banking inquiry. Let's see how WatsonX Assistant, with the help of Watson Discovery, handles it. Please meet our virtual agent, Minion Assistant
-
-[DEMO: Live Interaction with WatsonX Assistant]
-
-Customer (C): Hello, I want to know my current account balance.
-
-(WatsonX Assistant): Set of questions is asked by WatsonX to get the perfect data.
-
-[In the background, Watson Discovery searches through the bank's database.]
-
-Alex: Your current account balance is $100. Is there anything else I can assist you with today?
-
-C: No, that's all, thank you.
-
-Alex: You're welcome. Have a great day!
-
-[DEMO: End]
-
-H: Impressive, isn't it? The customer received a quick and accurate response to their inquiry, thanks to the seamless integration of WatsonX Assistant and Watson Discovery.
+Okay, so good day, ladies and gentlemen, welcome to this exciting demonstration where we will explore how Watson is resistant. Powered by Watson AI, Watson Discovery is revolutionizing the banking customer care experience. In today's fast-paced world, customers expect quick and accurate solutions to their banking
+queries. And here we are to show how this technology is changing the game. We know that Watson Discovery, with the help of Watson AI, integrates both of them and will show how the chatbot has been integrated on this banking solution.
+So let's dive into the demonstration, actual demonstration of what we have created for the banking solution. So I'm just sharing my screen so that we'll be able to see all the, what we have created.
+Okay, so I'm just sharing my screen. So here we can see, I have created one bank, Minion Bank, and this is the website of this
+bank. And I have integrated the virtual assistant and this IBM virtual assistant with the help of Watson Discovery as well as Watson XAI.
+So we have some predefined options where we can use one of them. So let's say we are taking this smart email statement. So how to apply this smart email statement? So of course it is asking for the account number.
+So let's enter an account number. After that account number, it's asking which month, I mean, which quarter or which month. So let's say this last six months, we want the smart email statement for this.
+So it will just send me the email statement, thank you for the details we have sent. Okay, so email has been sent by that. So we can see that this assistant helps really fast, not fast, yeah, fast and accurate responses
+and it helps to do work within seconds. Okay, so this is the one of the example. Let's say if we want to know my account balance.
+Okay, so I mean, it can recognize user. Okay, so did you mean account balance? So check account balance, you can say.
+So here we can see it actually give us a populated response that did you mean by this, this, this. So actually it recognizes the user sentences and user paragraphs as well. So this is the one case we can say that has been really good that it has a great user
+experience to using this chatbot assistant. Okay, so here I'm putting the date.
+1997, and it will show me the my balance that is currently $100.
+So here it is asking, do you want to pay bill now? So yes, I want to pay the bill. So it will automatically trigger the which account we want to pull the money.
+So let's say I'm taking it from savings account and how much we want to pay. So I'm paying $50 as of now.
+So $50. So let me confirm. Okay, so it is confirming so that you want to pay $50. So yes. So great, we'll process this payment for you. You are all set. And again, it is asking that we want to be smart email statement.
+So of course, we don't want this. So it will just send the session over here. Okay, so this was like the whole walkthrough to the assistant banking assistant that we
+have created as of now. There are many actions and examples that we have implemented in this assistant. So please try, please feel free to try this assistant and that's it.
+I will say that are many that are many options here. So there is a loan loan options as well. Home loan, it will provide accurate data, fast and responsive data, whatever that has
+been paid to it as well as it will for all the discovery API, it will fetch data from other websites from unstructured data like videos, unstructured data, PDF doc.
+So that's it, I will say. So thank you. This is the demonstration of what's the next API with Watson Discovery for the creating
+a banking chatbot. Thank you.
